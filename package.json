@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "",
-    "test": "jest"
+    "test": "jest --silent --verbose"
   },
   "keywords": [],
   "author": "",

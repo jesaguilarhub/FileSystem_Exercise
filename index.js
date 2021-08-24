@@ -2,15 +2,22 @@
 
 const readFileUsers = () => {
     //Imprimir en consola el arreglo de usuarios
-    
-}
+
+};
 
 const writeHelloWorld = () => {
-    //Escribir Hello world! en el archivo hello.txt
-    
-}
+    //Escribir hello world! en el archivo hello.txt
+
+};
+
+const addUser = (username) => {
+    //Agregar un usuario en la lista users.json
+};
+
+//No hace falta ejecutar las funciones
 
 module.exports = {
     readFileUsers,
-    writeHelloWorld
-}
+    writeHelloWorld,
+    addUser,
+};
